@@ -1,0 +1,1 @@
+console.log('Adeel Khan once said,“Dont Judge a Book by its Cover”');
